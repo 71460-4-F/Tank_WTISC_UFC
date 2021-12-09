@@ -1,4 +1,6 @@
 # Tank_WTISC_UFC
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/Tank_WTISC_UFC)](https://badges.pufler.dev)
+
 Mini course of games creation in love2D that ministered by David Oliveira Silva.
 >Demo
 
